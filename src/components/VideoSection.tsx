@@ -14,7 +14,7 @@ const VideoSection = () => {
   useEffect(() => {
     // Load Vturb player script
     const script = document.createElement("script");
-    script.src = "https://scripts.converteai.net/d0d64cb2-dca3-4be6-983c-3bc700b6a1d8/players/697faf080ac8fd40fc086cd2/v4/player.js";
+    script.src = "https://scripts.converteai.net/d0d64cb2-dca3-4be6-983c-3bc700b6a1d8/players/697fb0fc108f9afb77872158/v4/player.js";
     script.async = true;
     document.head.appendChild(script);
 
@@ -30,7 +30,7 @@ const VideoSection = () => {
     const setupPlayer = () => {
       const player = document.querySelector("vturb-smartplayer");
       if (player) {
-        const delaySeconds = 2500;
+        const delaySeconds = 2715;
         
         player.addEventListener("player:ready", function() {
           // Display hidden elements after delay (synced with video time)
@@ -124,7 +124,7 @@ const VideoSection = () => {
             className="relative rounded-lg overflow-hidden shadow-2xl"
           >
             <vturb-smartplayer 
-              id="vid-697faf080ac8fd40fc086cd2" 
+              id="vid-697fb0fc108f9afb77872158" 
               style={{ display: "block", margin: "0 auto", width: "100%", maxWidth: "100%" }}
             />
           </motion.div>
