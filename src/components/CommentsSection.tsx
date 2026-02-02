@@ -81,14 +81,14 @@ const CommentsSection = () => {
     {
       name: "Samantha Anderson",
       avatar: avatar1,
-      comment: "Sanjay, I've been taking it for 15 consecutive days and I'm honestly shocked… I walked into the kitchen yesterday and actually remembered what I went in there for. 😂 It's been years since that happened. Thank you!🧠✨",
+      comment: "I've been taking it for 15 consecutive days and I'm honestly shocked… I walked into the kitchen yesterday and actually remembered what I went in there for. 😂 It's been years since that happened. Thank you!🧠✨",
       time: "2h",
       likes: 23,
     },
     {
       name: "Ashley Thompson",
       avatar: avatar2,
-      comment: "FINALLY, SOMEONE WHO TALKS TO US LIKE HUMAN BEINGS. No overpromises, just clear explanations. THANK YOU SANJAY!! I STARTED TODAY ❤️",
+      comment: "FINALLY, SOMEONE WHO TALKS TO US LIKE HUMAN BEINGS. No overpromises, just clear explanations. THANK YOU!! I STARTED TODAY ❤️",
       time: "35 min",
       likes: 17,
       isReply: true,
@@ -96,7 +96,7 @@ const CommentsSection = () => {
     {
       name: "Jennifer Davis",
       avatar: avatar3,
-      comment: "You explain things in a way that actually makes sense, SANJAY. For people like me who aren't doctors, that's huge. I'm starting the trick tonight.",
+      comment: "You explain things in a way that actually makes sense. For people like me who aren't doctors, that's huge. I'm starting the trick tonight.",
       time: "7 min",
       likes: 11,
       isReply: true,
@@ -111,14 +111,14 @@ const CommentsSection = () => {
     {
       name: "Emily Johnson",
       avatar: avatar5,
-      comment: "Such a refreshing video, Sanjay. No fear-mongering, no hard sell — just a guy explaining something that works. I already sent it to my mom.👏😍",
+      comment: "Such a refreshing video. No fear-mongering, no hard sell — just a guy explaining something that works. I already sent it to my mom.👏😍",
       time: "1h",
       likes: 54,
     },
     {
       name: "Lauren Brown",
       avatar: avatar6,
-      comment: "Sanjay, I was scared. Truly scared. I kept forgetting appointments, repeating myself mid-sentence, and thinking \"Is this how it starts?\"… I started your routine 5 days ago and already feel lighter. Like my brain isn't in a fog anymore. God bless you 🙏",
+      comment: "I was scared. Truly scared. I kept forgetting appointments, repeating myself mid-sentence, and thinking \"Is this how it starts?\"… I started your routine 5 days ago and already feel lighter. Like my brain isn't in a fog anymore. God bless you 🙏",
       time: "19min",
       likes: 10,
     },
